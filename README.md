@@ -23,6 +23,13 @@ So that I can organzie my thoughts and keep track of tasks I need to complete
 -  make sure to enter localhost:3001 in address bar
   
 ## Usage
+![Screenshot (28)](https://github.com/ant05man/Note-Taker/assets/132954354/1d1206c6-9c3d-4313-86c7-0d1542d188ca)
+
+![Screenshot (29)](https://github.com/ant05man/Note-Taker/assets/132954354/3f732926-ba35-4ae2-9d59-64a88e68e4bb)
+
+![Screenshot (30)](https://github.com/ant05man/Note-Taker/assets/132954354/26817865-49d0-4276-ac00-d4c9f460b463)
+
+
 
 ## Languages Used
 -  JavaScript
