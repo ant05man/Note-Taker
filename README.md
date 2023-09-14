@@ -2,7 +2,7 @@
 
 
 ## User Story
-As a small business owner
+As a small business owner<br>
 I Want to be able to write and save notes
 So that I can organzie my thoughts and keep track of tasks I need to complete
 
