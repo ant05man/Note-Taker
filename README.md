@@ -19,7 +19,7 @@ So that I can organzie my thoughts and keep track of tasks I need to complete
 -  CD into desktop
 -  CD into Homeworks
 -  CD Note-Taker
--  code --> to enter VSCode
+-  code . --> to enter VSCode
 -  npm start in terminal
 -  make sure to enter localhost:3001 in address bar
   
